@@ -1,0 +1,71 @@
+<section>
+  <form [formGroup]="myForm" (ngSubmit)="getArticles()">
+    <div class="input-wrapper">
+      <label for="search">Search:</label>
+      <input type="text" placeholder="Input your search" formControlName="search" />
+
+      <label for="start">From:</label>
+      <input type="date" formControlName="startDate" max="{{myForm.value.endDate}}" />
+
+      <label for="end">To:</label>
+      <input type="date" formControlName="endDate" min="{{myForm.value.startDate}}" />
+
+      <button type="submit">
+        Go
+      </button>
+    </div>
+  </form>
+</section>
+<app-messages>
+</app-messages>
+<app-articles-detail [articles]="foundArticles"></app-articles-detail>
+<!-- 
+<section class="article-list-container" *ngIf="articles">
+  <div class="message-container">
+    <h4 *ngIf="articles.length!=0" class="result-title">Showing {{ articles.length }} results:</h4>
+    <p *ngIf="articles.length==0" class="result-title">Not resoults found, try with another search term!</p>
+  </div>
+  <ul>
+    <li *ngFor="let article of articles">
+      <article>
+        <p class="article-date">{{ article.pub_date | date: "dd/MM/yyyy" }}</p>
+
+        <h3>{{ article.headline.main }}</h3>
+        <p class="article-snippet">{{ article.snippet }}</p>
+
+        <footer>
+          <a *ngIf="article.statusAvailable" href="{{ article.web_url }}">{{ article.web_url }} </a>
+          <p class="message" *ngIf="article.statusAvailable==false">URL not online</p>
+        </footer>
+      </article>
+    </li>
+  </ul>
+</section> -->
+<!-- <ul>
+    <li>
+      <article>
+        <p class="article-date">25/06/2019</p>
+
+        <h3>Un encabezado de noticia</h3>
+        <p class="article-snippet">Muchas palabras acumuladas que no dicen nada</p>
+
+        <footer>
+          <a href="#">https://www.google.com.ar </a>
+          <p class="message" *ngIf="article.statusAvailable==false">URL not online</p>
+        </footer>
+      </article>
+    </li>
+    <li>
+      <article>
+        <p class="article-date">25/06/2019</p>
+
+        <h3>Un encabezado de noticia</h3>
+        <p class="article-snippet">Muchas palabras acumuladas que no dicen nada</p>
+
+        <footer>
+          <a href="#">https://www.google.com.ar </a>
+          <p class="message" *ngIf="article.statusAvailable==false">URL not online</p>
+        </footer>
+      </article>
+    </li>
+  </ul> -->

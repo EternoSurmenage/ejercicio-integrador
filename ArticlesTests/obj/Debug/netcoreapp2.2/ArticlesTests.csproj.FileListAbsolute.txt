@@ -1,0 +1,34 @@
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.csprojAssemblyReference.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.csproj.CoreCompileInputs.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.AssemblyInfoInputs.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.AssemblyInfo.cs
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.deps.json
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.runtimeconfig.json
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.runtimeconfig.dev.json
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.pdb
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesAPI.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesAPI.pdb
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.csproj.CopyComplete
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.pdb
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.deps.json
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.runtimeconfig.json
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.runtimeconfig.dev.json
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesTests.pdb
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesAPI.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\bin\Debug\netcoreapp2.2\ArticlesAPI.pdb
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.csprojAssemblyReference.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.csproj.CoreCompileInputs.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.AssemblyInfoInputs.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.AssemblyInfo.cs
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.csproj.CopyComplete
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesTests\obj\Debug\netcoreapp2.2\ArticlesTests.pdb

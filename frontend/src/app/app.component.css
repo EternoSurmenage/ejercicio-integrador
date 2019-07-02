@@ -1,0 +1,13 @@
+header {
+  color:whitesmoke;
+  font-family: "Lato", Haettenschweiler;
+  font-size: 5em;
+  text-align: center;
+
+  background-color: rgb(36, 41, 100);
+}
+
+body,
+html {
+  margin: 0px!important;
+}

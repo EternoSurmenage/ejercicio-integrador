@@ -1,0 +1,28 @@
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.deps.json
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.runtimeconfig.json
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.runtimeconfig.dev.json
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.pdb
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.csprojAssemblyReference.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.csproj.CoreCompileInputs.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.RazorAssemblyInfo.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.RazorAssemblyInfo.cs
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.AssemblyInfoInputs.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.AssemblyInfo.cs
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.dll
+C:\Users\dmingolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.pdb
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.deps.json
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.runtimeconfig.json
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.runtimeconfig.dev.json
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\bin\Debug\netcoreapp2.2\ArticlesAPI.pdb
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.csprojAssemblyReference.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.RazorAssemblyInfo.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.RazorAssemblyInfo.cs
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.AssemblyInfoInputs.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.AssemblyInfo.cs
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.dll
+C:\Users\Dante Míngolo\Documents\Repositories\ejercicio-integrador\ArticlesAPI\obj\Debug\netcoreapp2.2\ArticlesAPI.pdb

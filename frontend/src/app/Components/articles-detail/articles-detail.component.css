@@ -1,0 +1,73 @@
+.message {
+  display: inline-block;
+  padding: 0.5em;
+  margin-left: 1em;
+  margin-bottom: 5px;
+
+  text-align: center;
+  font-size: 0.9em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+
+  background-color: rgba(240, 128, 128, 0.5);
+  border: 2px solid lightpink;
+  border-radius: 5px;
+}
+
+.result-title {
+  font-family: arial;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.article-date {
+  margin-bottom: 4px;
+  font-family: monospace;
+  color: rgb(89, 100, 110);
+}
+
+.article-snippet {
+  margin-top: 4px;
+  font-family: "PT serif";
+}
+
+h3 {
+  margin-top: 0px;
+  margin-bottom: 6px;
+}
+
+article {
+  margin-bottom: 10px;
+  padding: 10px;
+  word-wrap: break-word;
+  border: 1px solid rgba(209, 202, 202, 0.3);
+  border-radius: 8px;
+
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+ul {
+  margin-right: auto;
+  margin-left: auto;
+  list-style-type: none;
+  width: 45em;
+}
+
+.title-container {
+  text-align: center;
+}
+
+.title-container p {
+  display: inline-block;
+  padding: 0.5em;
+  margin-left: 1em;
+  margin-bottom: 5px;
+
+  font-size: 0.9em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(4, 48, 56, 0.5);
+
+  background-color: rgba(50, 171, 192, 0.5);
+  /* border: 2px solid rgba(50, 171, 192, 0.5); */
+  border-radius: 5px;
+}

@@ -1,0 +1,21 @@
+<section *ngIf="articles">
+  <div class="title-container">
+    <h4 *ngIf="articles.length!=0" class="result-title">Showing {{ articles.length }} results:</h4>
+    <p *ngIf="articles.length==0">Not resoults found, try with another search term!</p>
+  </div>
+<ul>
+  <li *ngFor="let article of articles">
+    <article>
+      <p class="article-date">{{ article.pub_Date | date: "dd/MM/yyyy" }}</p>
+
+      <h3>{{ article.headline.main }}</h3>
+      <p class="article-snippet">{{ article.snippet }}</p>
+
+      <footer>
+        <a href="{{ article.web_URL }}" *ngIf="article.statusAvailable==true">{{ article.web_URL }} </a>
+        <p class="message" *ngIf="article.statusAvailable==false">URL not online</p>
+      </footer>
+    </article>
+  </li>
+</ul>
+</section>
